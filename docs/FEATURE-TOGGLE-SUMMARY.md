@@ -1,6 +1,6 @@
 # Feature Toggle Test Repo — Summary & Proposal Documentation
 
-A technical summary of this proof-of-concept for use in proposal documentation.
+Technical summary of this proof-of-concept for use in proposal documentation.
 
 ---
 
